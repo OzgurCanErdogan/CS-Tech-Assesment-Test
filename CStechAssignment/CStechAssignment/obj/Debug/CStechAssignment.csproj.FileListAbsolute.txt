@@ -1,0 +1,10 @@
+C:\Users\ozgur\source\repos\CStechAssignment\CStechAssignment\bin\Debug\CStechAssignment.exe.config
+C:\Users\ozgur\source\repos\CStechAssignment\CStechAssignment\bin\Debug\CStechAssignment.exe
+C:\Users\ozgur\source\repos\CStechAssignment\CStechAssignment\bin\Debug\CStechAssignment.pdb
+C:\Users\ozgur\source\repos\CStechAssignment\CStechAssignment\obj\Debug\CStechAssignment.csprojAssemblyReference.cache
+C:\Users\ozgur\source\repos\CStechAssignment\CStechAssignment\obj\Debug\CStechAssignment.GameScreen.resources
+C:\Users\ozgur\source\repos\CStechAssignment\CStechAssignment\obj\Debug\CStechAssignment.Properties.Resources.resources
+C:\Users\ozgur\source\repos\CStechAssignment\CStechAssignment\obj\Debug\CStechAssignment.csproj.GenerateResource.cache
+C:\Users\ozgur\source\repos\CStechAssignment\CStechAssignment\obj\Debug\CStechAssignment.csproj.CoreCompileInputs.cache
+C:\Users\ozgur\source\repos\CStechAssignment\CStechAssignment\obj\Debug\CStechAssignment.exe
+C:\Users\ozgur\source\repos\CStechAssignment\CStechAssignment\obj\Debug\CStechAssignment.pdb
